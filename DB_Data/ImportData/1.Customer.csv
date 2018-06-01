@@ -1,0 +1,5 @@
+id,name,second_name,phone,login,email,password,isverified,token,avatar,registration_date
+1ba970a2-4c97-11e8-893d-bbb831619495,,,,viktor,b1kmoop@gmail.com,$2a$10$7gSiEy.F5UppWUJkVCgq8uRgn4LATrFrz73/QQB9iqjnLZR3.kHwu,t,"",,2018-04-30 19:54:12.135
+da9b2142-4d1c-11e8-a8ff-f73f58372192,,,,customer2,customer2@email.com,$2a$10$7gSiEy.F5UppWUJkVCgq8uRgn4LATrFrz73/QQB9iqjnLZR3.kHwu,t,"",,2018-05-01 19:54:12.135
+0874044e-4d1d-11e8-a901-ffbde78618e2,,,,customer3,custome32@email.com,$2a$10$7gSiEy.F5UppWUJkVCgq8uRgn4LATrFrz73/QQB9iqjnLZR3.kHwu,t,"",,2018-05-01 19:54:12.135
+0bea0042-4d1d-11e8-a902-33dd8525405e,,,,customer4,custome42@email.com,$2a$10$7gSiEy.F5UppWUJkVCgq8uRgn4LATrFrz73/QQB9iqjnLZR3.kHwu,t,"",,2018-05-01 19:54:12.135
